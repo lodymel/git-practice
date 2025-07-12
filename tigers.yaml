@@ -2,7 +2,11 @@ team: Tigers
 
 manager: Brenda
 
+<<<<<<< HEAD
 coach: Ruth
+=======
+coach: Grace
+>>>>>>> 27277b3be2ae1ebbcbde3e2f8fb6d9f13479a733
 
 members:
 - Linda
@@ -12,4 +16,8 @@ members:
 - Tyler
 - Kim
 
+<<<<<<< HEAD
 fetch: this
+=======
+fetch: this
+>>>>>>> 27277b3be2ae1ebbcbde3e2f8fb6d9f13479a733
